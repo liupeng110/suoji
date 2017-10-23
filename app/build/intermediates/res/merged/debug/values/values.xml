@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ab">你好,世界 </string>
+    <string name="app_name">辅助</string>
+    <string name="cc">这是提示2</string>
+    <string name="cd">这是提示0</string>
+    <string name="exit">狂砸手机就能解锁哦！</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="m">手机已锁,刷机无效</string>
+    <string name="mm">qq:123456</string>
+    <string name="nottrue">密码错误</string>
+    <string name="number_string">解锁序列号:</string>
+    <string name="qq"> 解锁xxxxx</string>
+    <string name="shijie">helloword.</string>
+    <string name="yu">手机已锁,刷机无效</string>
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+	</style>
+</resources>

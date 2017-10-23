@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Oct 23 09:58:09 CST 2017
+2.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\text.xml
+4.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\layout3.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\button.xml
+5.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\null_a.xml
+4.set=DEX
+6.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\layout2.xml
+10.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\layout.xml
+6.set=ANDROID_RESOURCE
+0.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\null_a2.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=G\:\\down\\google\\suoji\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\down\\google\\suoji\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\down\\google\\suoji\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "G:\\down\\google\\suoji\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\suoji\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text.xml",
+        "source": "G:\\down\\google\\suoji\\app\\src\\main\\res\\drawable\\text.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\suoji\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout2.xml",
+        "source": "G:\\down\\google\\suoji\\app\\src\\main\\res\\drawable\\layout2.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\suoji\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout3.xml",
+        "source": "G:\\down\\google\\suoji\\app\\src\\main\\res\\drawable\\layout3.xml"
+    },
+    {
+        "merged": "G:\\down\\google\\suoji\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout.xml",
+        "source": "G:\\down\\google\\suoji\\app\\src\\main\\res\\drawable\\layout.xml"
+    }
+]
